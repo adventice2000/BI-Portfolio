@@ -1,6 +1,7 @@
 # 📊 Customer Analytics Dashboard
 
 ## 🚀 Project Overview
+
 This project analyzes customer behavior using segmentation, cohort retention, and revenue analysis.
 
 The goal is to identify high-value customers, understand churn patterns, and support data-driven decision making.
@@ -8,6 +9,7 @@ The goal is to identify high-value customers, understand churn patterns, and sup
 ---
 
 ## 🔍 Key Insights
+
 - Customer retention drops significantly after the first purchase
 - A small percentage of customers generates most of the revenue
 - High-value customers show distinct behavioral patterns
@@ -18,17 +20,21 @@ The goal is to identify high-value customers, understand churn patterns, and sup
 ## 📊 Dashboards
 
 ### 1. Customer Segmentation
-![Segmentation](images/segmentation.png)
+
+![Segmentation](Images/segmentation.png)
 
 ### 2. Customer Retention & Revenue
-![Retention](images/retention.png)
+
+![Retention](Images/retention.png)
 
 ### 3. Customer Behavior
-![Behavior](images/behavior.png)
+
+![Behavior](Images/behavior.png)
 
 ---
 
 ## 🛠 Tools Used
+
 - Tableau (Data Visualization)
 - Python (Data Cleaning & Feature Engineering)
 - Pandas
@@ -36,6 +42,7 @@ The goal is to identify high-value customers, understand churn patterns, and sup
 ---
 
 ## 📈 Key Skills Demonstrated
+
 - Customer Segmentation (RFM / Behavioral)
 - Cohort Analysis
 - Retention & Churn Analysis
@@ -44,14 +51,17 @@ The goal is to identify high-value customers, understand churn patterns, and sup
 ---
 
 ## 🌐 Live Dashboard
+
 👉 [View on Tableau Public](YOUR_LINK_HERE)
 
 ---
 
 ## 📂 Dataset
+
 Dataset inspired by real-world e-commerce transactions.
 
 ---
 
 ## 👤 Author
+
 Sébastien Maillot
