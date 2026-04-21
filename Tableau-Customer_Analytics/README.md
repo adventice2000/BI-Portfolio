@@ -1,10 +1,10 @@
-# 📊 Customer Analytics Dashboard
+#  CUSTOMER ANALYTICS & PERFORMANCE DASHBOARD
 
 ## 🚀 Project Overview
 
 This project analyzes customer behavior using segmentation, cohort retention, and revenue analysis.
 
-The goal is to identify high-value customers, understand churn patterns, and support data-driven decision making.
+The goal is to identify the company's performance, high-value customers, understand churn patterns, and support data-driven decision making.
 
 ---
 
@@ -38,15 +38,6 @@ The goal is to identify high-value customers, understand churn patterns, and sup
 - Tableau (Data Visualization)
 - Python (Data Cleaning & Feature Engineering)
 - Pandas
-
----
-
-## 📈 Key Skills Demonstrated
-
-- Customer Segmentation (RFM / Behavioral)
-- Cohort Analysis
-- Retention & Churn Analysis
-- Data Visualization & Storytelling
 
 ---
 
