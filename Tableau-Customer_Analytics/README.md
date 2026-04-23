@@ -19,15 +19,19 @@ The goal is to identify the company's performance, high-value customers, underst
 
 ## 📊 Dashboards
 
-### 1. Customer Segmentation
+### 1. Sales perfomance
+
+![Sales](Images/sales.png)
+
+### 2. Customer Segmentation
 
 ![Segmentation](Images/segmentation.png)
 
-### 2. Customer Retention & Revenue
+### 3. Customer Retention & Revenue
 
 ![Retention](Images/retention.png)
 
-### 3. Customer Behavior
+### 4. Customer Behavior
 
 ![Behavior](Images/behavior.png)
 
@@ -43,7 +47,7 @@ The goal is to identify the company's performance, high-value customers, underst
 
 ## 🌐 Live Dashboard
 
-👉 [View on Tableau Public](YOUR_LINK_HERE)
+👉 [View on Tableau Public](https://public.tableau.com/views/BIanalytic/Dashboard4?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
