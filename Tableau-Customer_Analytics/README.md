@@ -54,7 +54,7 @@ The goal is to identify the company's performance, high-value customers, underst
 ## 📂 Dataset
 
 Dataset inspired by real-world e-commerce transactions.
-
+[Brazilian E-Commerce Public Dataset by Olist from Kaggle]([https://public.tableau.com/views/BIanalytic/Dashboard4?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?resource=download))
 ---
 
 ## 👤 Author
